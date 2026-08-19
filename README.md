@@ -1,3 +1,5 @@
+![Crypto Price Tracker](https://your-image-host.com/crypto-banner.jpg)
+
 # Crypto Price Tracker & Email Reporter 📈📧
 
 A Python script that fetches real-time cryptocurrency market data from the CoinGecko API, saves it to a CSV file, identifies the top gainers and losers of the day, and emails a daily report — designed to run automatically every morning at 8 AM.
