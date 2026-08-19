@@ -1,4 +1,4 @@
-![Crypto Price Tracker](https://your-image-host.com/crypto-banner.jpg)
+![Crypto Price Tracker]([https://your-image-host.com/crypto-banner.jpg](https://png.pngtree.com/thumb_back/fw800/background/20241116/pngtree-bitcoin-coins-with-stock-market-chart-in-background-image_16596623.jpg))
 
 # Crypto Price Tracker & Email Reporter 📈📧
 
