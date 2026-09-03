@@ -80,7 +80,7 @@ def send_mail(subject, body, filename):
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
     sender_mail = "tejdesale18@gmail.com"
-    email_password = "*****"
+    email_password = 
     receiver_mail = "tejdesale1718@gmail.com"
 
 
